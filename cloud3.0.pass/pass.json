@@ -1,0 +1,32 @@
+{
+	"backgroundColor":"rgb(236,236,236)",
+	"logoText":"  andy picci",
+	"foregroundColor":"rgb(255,255,255)",
+	"labelColor":"rgb(255,255,255)",
+	"description":"Cloud Pass",
+	"organizationName":"Andy Picci",
+	"passTypeIdentifier":"pass.com.cloud.picci",
+	"teamIdentifier":"NP98NS2J4P",
+	"formatVersion":1,
+	"boardingPass":
+	{
+		"headerFields":[
+			{"key":"logo","label":"","value":"☁️"}
+		],
+		"auxiliaryFields":[
+			{"key":"ticketemission","label":"ticket emission","value":""},
+			{"key":"ticketno","label":"ticket no.","value":"00002"},
+			{"key":"date","label":"date","value":"23.10.23"},
+			{"key":"time","label":"time","value":"10:33"}
+		],
+		"primaryFields":[
+			{"value":"IRL","key":"provenience","label":"paris"},
+			{"key":"destination","value":"URL","label":"cloud 3.0","textAlignment":"PKTextAlignmentRight"}
+		],
+		"secondaryFields":[
+			{"key":"passenger","value":"DREYFUS, ZACH","label":"passenger"},
+			{"key":"dob","value":"19.11.2001","label":"born"}
+		],
+	"transitType":"PKTransitTypeAir"
+	}
+}

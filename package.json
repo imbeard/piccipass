@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "crypto": "^1.0.1",
+    "passkit-generator": "^3.1.11"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
